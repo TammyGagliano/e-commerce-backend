@@ -33,7 +33,8 @@ You’ll need to use the MYSQL2 dependency and SEQUELIZE dependency packages to 
 
 Tammy Gagliano
 https://github.com/TammyGagliano/e-commerce-backend
+Video
+https://drive.google.com/file/d/1QAff1eumn5-_zMi1vncy26YIQwucRogm/view?usp=sharing
 
 ## Screenshot 
 ![E-Commerce Backend](./ecommercescreenshot.png)
-
